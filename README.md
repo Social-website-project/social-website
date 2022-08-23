@@ -1,3 +1,2 @@
 # social-website
-hello
-Ujwal
+Social Media is the new trend in today’s time and age. Social media has become an integral part of everyone and is basically considered this generation’s language. Again what is to be noted, is that social media is not only limited to the millennials but people of all ages. Main objective of this project is to connect you with your friends and involve in activities like following friends ,posting ,sharing ,like ,comment ,chat etc..
